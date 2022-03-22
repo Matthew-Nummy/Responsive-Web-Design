@@ -1,0 +1,28 @@
+
+#title{
+  background-color: grey;
+  text-align: center;
+}
+#image {
+  max-height: 512px;
+  max-width: 100%;
+  height: auto;
+}
+#main {
+  text-align: center;
+}
+#img-caption{
+  padding: 0px 0px 20px 0px;
+  margin: 0px;
+  font-size: 20px;
+}
+footer{
+  background-color: grey;
+  font-size: 18px;
+}
+
+#tribute-info{
+  padding: 20px;
+  background-color: grey;
+  list-style-position: inside;
+}
